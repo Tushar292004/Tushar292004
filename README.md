@@ -6,6 +6,7 @@
 
 <img align="right"  alt="Coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
+
 - 🌱 I’m currently learning **React , NodeJs**
 
 - 💬 Ask me about **PYTHON , MERN , DSA , DBMS**
