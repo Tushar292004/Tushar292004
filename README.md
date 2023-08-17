@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar292004&label=Profile%20views&color=0e75b6&style=flat" alt="tushar292004" /> </p>
 
 <img align="right"  alt="Coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
-<br>
 
 - 🌱 I’m currently learning **React , NodeJs**
 
