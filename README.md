@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/tushar-chandak-b2b943257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-chandak-b2b943257" height="30" width="40" /></a>
 <a href="https://instagram.com/tusharchandak29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tusharchandak29" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@tusharchandak29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tusharchandak29" height="30" width="40" /></a>
-<a href="https://discord.gg/knight#3850" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="knight#3850" height="30" width="40" /></a>
+<a href="https://discord.gg/#3850" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3850" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
