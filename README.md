@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tushar Chandak</h1> 
-<h3 align="center">A passionate fullstack web developer</h3><br/>
+<h3 align="center">🚀 Coding Dreams: From Pixels to Possibilities! 🌐👩‍💻 #AspiringFullStackJourney</h3><br/>
 
 <img align="right" alt="Coding" width="400"  src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
@@ -11,6 +11,8 @@
 - 📫 How to reach me **tusharchandak2004@gmail.com**
 
 - ⚡ Fun fact **I am seriously hilarious .**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,6 +50,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
 <!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p> -->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar292004&label=Profile%20views&color=0e75b6&style=flat" alt="tushar292004" /> </p>
 
 
