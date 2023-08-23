@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Tushar Chandak</h1> 
-<h3 align="center">🚀 Coding Dreams: From Pixels to Possibilities! 🌐👩‍💻 #AspiringFullStackJourney</h3><br/>
 
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+<h7 align="center">‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ </h7><br/>
+<h3 align="center">🚀 Coding Dreams: From Pixels to Possibilities! 🌐👩‍💻 #AspiringFullStackJourney</h3><br/>
 <img align="right" alt="Coding" width="400"  src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 - 🌱 I’m currently learning **React , NodeJs**
